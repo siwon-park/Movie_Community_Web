@@ -19,7 +19,7 @@
 
 ### 📝Description
 
-- 상세화면
+- [상세화면](https://github.com/siwon-park/Movie_Community_Web/blob/master/%EC%83%81%EC%84%B8%ED%99%94%EB%A9%B4%20%EA%B5%AC%EC%84%B1/DetailView.md)
 - 영화 정보 및 추천 서비스 제공 프로젝트
 - 기획의도: MZ 세대를 고려한 신뢰성 있는 정보 기반의 영화 추천 커뮤니티 웹 사이트 제작 및 서비스 제공
   => 사용자가 제공하는 정보를 이용했기 때문에 신뢰성있는 정보라고 할 수 있음
