@@ -1,0 +1,66 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@egjs/flicking-plugins": "^4.3.0",
+    "@egjs/vue-flicking": "^4.7.0",
+    "@mdi/font": "^6.7.96",
+    "axios": "^0.27.2",
+    "bootstrap-icons": "^1.8.3",
+    "core-js": "^3.8.3",
+    "lodash": "^4.17.21",
+    "run": "^1.4.0",
+    "serve": "^13.0.2",
+    "vue": "^2.6.14",
+    "vue-google-oauth2": "^1.5.8",
+    "vue-router": "^3.5.1",
+    "vue-tinder": "^2.0.3",
+    "vuetify": "^2.6.6",
+    "vuex": "^3.6.2",
+    "vuex-persistedstate": "^4.1.0",
+    "zircle": "^1.2.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@fortawesome/fontawesome-free": "^6.1.1",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "material-design-icons-iconfont": "^6.7.0",
+    "sass": "~1.32.0",
+    "sass-loader": "^10.0.0",
+    "vue-cli-plugin-vuetify": "~2.4.8",
+    "vue-template-compiler": "^2.6.14",
+    "vuetify-loader": "^1.7.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "@babel/eslint-parser"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
